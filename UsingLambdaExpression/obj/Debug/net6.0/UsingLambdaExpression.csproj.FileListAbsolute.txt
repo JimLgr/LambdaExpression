@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\bin\Debug\net6.0\UsingLambdaExpression.exe
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\bin\Debug\net6.0\UsingLambdaExpression.deps.json
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\bin\Debug\net6.0\UsingLambdaExpression.runtimeconfig.json
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\bin\Debug\net6.0\UsingLambdaExpression.dll
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\bin\Debug\net6.0\UsingLambdaExpression.pdb
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.AssemblyInfo.cs
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.dll
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\refint\UsingLambdaExpression.dll
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.pdb
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\UsingLambdaExpression.genruntimeconfig.cache
+C:\Users\pc\source\repos\UsingLambdaExpression\UsingLambdaExpression\obj\Debug\net6.0\ref\UsingLambdaExpression.dll
